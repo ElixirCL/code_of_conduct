@@ -6,7 +6,7 @@ Estos términos de servicio ("Términos") se aplican a su acceso y uso de Elixir
 
 ## Aceptación de estos Términos
 
-Si accede o utiliza el Servicio, significa que acepta estar sujeto a todos los términos a continuación. Por lo tanto, antes de usar el Servicio, lea todos los términos. Si no está de acuerdo con todos los términos a continuación, no utilice el Servicio. Además, si un término no tiene sentido para usted, háganoslo saber a través del correo electrónico help@elixircl.github.io.
+Si accede o utiliza el Servicio, significa que acepta estar sujeto a todos los términos a continuación. Por lo tanto, antes de usar el Servicio, lea todos los términos. Si no está de acuerdo con todos los términos a continuación, no utilice el Servicio. Además, si un término no tiene sentido para usted, háganoslo saber a través del correo electrónico camilo@ninjas.cl.
 
 ## Cambios a estos Términos
 
