@@ -24,7 +24,7 @@ La seguridad de su información personal es importante para nosotros, pero recue
 
 ## Cambios a esta política de privacidad
 
-Esta Política de privacidad entra en vigencia a partir del 11 de noviembre de 2022 y permanecerá vigente excepto con respecto a cualquier cambio en sus disposiciones en el futuro, que entrará en vigencia inmediatamente después de su publicación en esta página.
+Esta Política de privacidad entra en vigencia a partir del 27 de noviembre de 2023 y permanecerá vigente excepto con respecto a cualquier cambio en sus disposiciones en el futuro, que entrará en vigencia inmediatamente después de su publicación en esta página.
 
 Elixir Chile se reserva el derecho de actualizar o cambiar nuestra Política de Privacidad en cualquier momento y debes revisar esta Política de Privacidad periódicamente. Si Elixir Chile realiza algún cambio sustancial en esta Política de privacidad, Elixir Chile se lo notificará a través de la dirección de correo electrónico que nos proporcionó o colocando un aviso destacado en nuestra aplicación.
 

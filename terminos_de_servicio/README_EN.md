@@ -1,6 +1,6 @@
 # Elixir Chile TERMS OF SERVICE
 
-Last Updated: November 11th, 2022
+Last Updated: November 27th, 2023
 
 These terms of service ("Terms") apply to your access and use of JSCONF (the "Service"). Please read them carefully.
 

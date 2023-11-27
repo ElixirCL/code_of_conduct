@@ -1,6 +1,6 @@
 # TÉRMINOS DE SERVICIO DE Elixir Chile
 
-Última actualización: 11 de noviembre de 2022
+Última actualización: 27 de noviembre de 2023
 
 Estos términos de servicio ("Términos") se aplican a su acceso y uso de JSCONF (el "Servicio"). Por favor, léalas cuidadosamente.
 
