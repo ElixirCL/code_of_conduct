@@ -2,7 +2,7 @@
 
 Last Updated: November 27th, 2023
 
-These terms of service ("Terms") apply to your access and use of JSCONF (the "Service"). Please read them carefully.
+These terms of service ("Terms") apply to your access and use of ElixirCL (the "Service"). Please read them carefully.
 
 ## Accepting these Terms
 

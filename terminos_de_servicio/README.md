@@ -2,7 +2,7 @@
 
 Última actualización: 27 de noviembre de 2023
 
-Estos términos de servicio ("Términos") se aplican a su acceso y uso de JSCONF (el "Servicio"). Por favor, léalas cuidadosamente.
+Estos términos de servicio ("Términos") se aplican a su acceso y uso de ElixirCL (el "Servicio"). Por favor, léalas cuidadosamente.
 
 ## Aceptación de estos Términos
 
